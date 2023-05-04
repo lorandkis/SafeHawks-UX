@@ -10,7 +10,7 @@ Anonymous reporting: report incidents or concerns anonymously to campus security
 Push notifications: receive important safety alerts and updates directly to your phone
 
 ## Technology Stack
-Flask - UX design tool
+Figma - UX design tool
 
 ## Some Screenshots:
 ### Login Page
