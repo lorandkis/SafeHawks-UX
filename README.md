@@ -10,9 +10,7 @@ Anonymous reporting: report incidents or concerns anonymously to campus security
 Push notifications: receive important safety alerts and updates directly to your phone
 
 ## Technology Stack
-React Native
-Firebase
-Google Maps API
+Flask - UX design tool
 
 ## Some Screenshots:
 ### Login Page
