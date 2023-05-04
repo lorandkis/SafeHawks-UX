@@ -16,7 +16,7 @@ Google Maps API
 
 ##Some Screenshots:
 ###Login Page
-![Login Page](/C:/Users/loran/Desktop/Academic/Laurier 2021-2022/Courses/UX230/UI/Log-in.png " ")
+![Log-in](https://user-images.githubusercontent.com/67921530/236285627-50daac84-217e-41cd-b52c-fe1966ae436a.png)
 
 ###Profile Page
-![Profile Page](/C:/Users/loran/Desktop/Academic/Laurier 2021-2022/Courses/UX230/UI/Profile.png " ")
+![Profile](https://user-images.githubusercontent.com/67921530/236285690-3128916c-8dde-477f-8820-b2473ff61e12.png)
